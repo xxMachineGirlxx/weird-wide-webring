@@ -185,4 +185,9 @@ let sites = [
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
     }
+    {
+        name: "Machine Girl World",
+        url: "https://xxxmachinegirlxxx.neocities.org/",
+        because: "I want to be with my strange bretheren. My website is heavily inspired by the old web, but whenever you think it's just a teenage girls blog, it gets absurd. Read my diary or advice entries if you don't believe me"
+    }
 ]
